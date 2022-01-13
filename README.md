@@ -1,4 +1,4 @@
 HW 1 - Code Refactor
-!(https://i.imgur.com/hK0sotN.jpg)
+![webpage screenshot](https://i.imgur.com/hK0sotN.jpg)
 Screenshot of webpage
 Webpage link: https://jsantosaguilera.github.io/hw1/
